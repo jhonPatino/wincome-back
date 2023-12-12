@@ -1,0 +1,20 @@
+{
+  "name": "wincome-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Wincome Team",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-myconnection": "^1.0.4",
+    "mysql2": "^3.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
